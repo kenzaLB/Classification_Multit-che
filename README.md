@@ -10,4 +10,4 @@ Lahbabi Kenza
 Ward Myriam 
 Zeggar Rym 
 
-##Mots Clefs: Classification Multitâches , expérimentation, réseaux de neurones ,données textuelles.
+## Mots Clefs: Classification Multitâches , expérimentation, réseaux de neurones ,données textuelles.
